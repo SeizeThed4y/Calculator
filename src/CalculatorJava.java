@@ -6,7 +6,7 @@ public class CalculatorJava {
     }
 
 
-    public static double subtract(double num1 , double num2){
+    public static double substracts(double num1 , double num2){
         return num1 - num2;
     }
 }
