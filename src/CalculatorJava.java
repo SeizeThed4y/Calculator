@@ -11,7 +11,12 @@ public class CalculatorJava {
     }
 
 
+
+    //this is also good method
     public static double multiply(double num1, double num2){
         return num1 * num2;
     }
+
+
+
 }
